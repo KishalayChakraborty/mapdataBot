@@ -1,0 +1,4 @@
+selenium
+playwright
+beautifulsoup4
+pandas
